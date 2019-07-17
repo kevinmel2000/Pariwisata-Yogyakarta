@@ -11,11 +11,11 @@ import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-public class SplashActivity extends AppCompatActivity {
+/**
+    * Created by Azhar Rivaldi on 15/07/2019.
+*/
 
-    /**
-     * Created by Azhar Rivaldi on 15/07/2019.
-     */
+public class SplashActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
