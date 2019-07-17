@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "782326911251",
+    "firebase_url": "https://pariwisata-yogyakarta-erporate.firebaseio.com",
+    "project_id": "pariwisata-yogyakarta-erporate",
+    "storage_bucket": "pariwisata-yogyakarta-erporate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782326911251:android:46efbcf095fa675c",
+        "android_client_info": {
+          "package_name": "com.azhar.erporate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782326911251-87i1gp2mfcv1s18jfgn8f3lu2qhtujkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAjmcLUpCveWcsgufp_WbwIeokIxHcyaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782326911251-87i1gp2mfcv1s18jfgn8f3lu2qhtujkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
